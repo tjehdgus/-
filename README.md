@@ -2,7 +2,7 @@
 <img src="https://github.com/user-attachments/assets/a9469605-548a-4169-a520-58b19e724e48" alt="수자원공사 공모전 프로젝트" width="500">
 ---
 
-### 📷 프로젝트 대표 이미지
+### 📷 프로젝트 표지
 <img src="https://github.com/user-attachments/assets/ad1645e3-20ff-4b8f-b5de-99a08cb9e356" alt="수자원공사 공모전 프로젝트" width="500">
 # -
 
