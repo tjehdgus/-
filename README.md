@@ -61,7 +61,7 @@
 
 ### 📄 발표자료
 프로젝트의 자세한 내용은 발표자료에서 확인할 수 있습니다:  
-[📂 발표자료 PDF]([발표자료.pdf](https://github.com/tjehdgus/-/blob/main/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf))
+[📂 발표자료 PDF](https://github.com/tjehdgus/-/blob/main/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
 
 
 ### 📷 프로젝트 대표 이미지
