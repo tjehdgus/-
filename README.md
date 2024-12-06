@@ -65,7 +65,8 @@
 프로젝트의 자세한 내용은 발표자료에서 확인할 수 있습니다:  
 [📂 발표자료 PDF](https://github.com/tjehdgus/-/blob/main/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
 
+![image](https://github.com/user-attachments/assets/ad1645e3-20ff-4b8f-b5de-99a08cb9e356)
 
 ### 📷 프로젝트 대표 이미지
-![수자원 공모전 대표 이미지](https://github.com/user-attachments/assets/your-image-link.jpg)
+![image](https://github.com/user-attachments/assets/ad1645e3-20ff-4b8f-b5de-99a08cb9e356)
 # -
